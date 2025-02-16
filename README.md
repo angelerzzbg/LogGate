@@ -19,6 +19,7 @@ Goal: made to store the logs in db/local for later debugging purpose
 
 ## Dependencies
 
+- Typescript
 - ngRok
 - rabbitMQ
 - MongoDB
