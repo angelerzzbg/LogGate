@@ -20,6 +20,7 @@ Goal: made to store the logs in db/local for later debugging purpose
 ## Dependencies
 
 - ngRok
+- rabbitMQ
 - MongoDB
 - Express
 - NodeJs
