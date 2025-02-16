@@ -1,7 +1,7 @@
 # LogGate
-An micro service for storing/searching logs, create an app, invoke endpoint with token, which includes appId, iat. review logs
+A micro service for storing/searching logs, create an app, invoke endpoint with token, which includes { appId, iat }. review logs later
 
-Goal: made to store the logs in db/local for later debugging purpose
+Goal: made to store the logs in db/local for later debugging purpose, some business has multiple services running in and they want to monitor at all services at a single place, this is for that. though there are multiple services out their which provides these feature, but this one is simple and easy to use, the whole application is your's, dedicated service for this logs thing only. 
 
 ## How it work
 
